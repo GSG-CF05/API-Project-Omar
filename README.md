@@ -24,7 +24,7 @@ Just follow these simple steps:
 
 1. Type `git clone` , and then paste the URL you copied earlier.
 ```
- $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+ $ git clone `https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
 ```
 6. Press Enter to create your local clone.
 
