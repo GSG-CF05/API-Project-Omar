@@ -52,6 +52,7 @@ main div{
     width: 250px;
     height: 400px;
     margin: 19px 15px;
+    
     background: red;
     background-size: cover;
 }
@@ -61,7 +62,9 @@ img{
     object-fit: cover;
 }
 h2{
-    font-size:1.1rem;
+    font-size:0.9rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.7rem;
     font-family: sans-serif;
     font-weight: bold;
     text-align: center;
